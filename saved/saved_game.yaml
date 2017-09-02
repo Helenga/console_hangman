@@ -1,0 +1,5 @@
+---
+:ridle: !ruby/object:WordHandler
+  word: consanguine
+  template: "-o--a-----e"
+:attempts: 11
