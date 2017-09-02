@@ -1,4 +1,4 @@
-# To start app put in console $ruby hang_man.rb
+# To start app put in console $ruby lib/hang_man.rb
 # Menu clearly describing your following steps
 # There is two possibility in programm: 
   - adding your own dictionary (now by default you can find file dictionary.txt);
